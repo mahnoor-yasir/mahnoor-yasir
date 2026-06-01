@@ -67,7 +67,7 @@ I am dedicated to continuous learning and developing impactful digital solutions
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/mahnoor-yasir401/  
+- LinkedIn: https://www.linkedin.com/in/mahnoor-yasir 
 - GitHub: https://github.com/mahnoor-yasir  
 - Itch.io: https://mahnoor-yasir.itch.io  
 - Email: mahnooryasir04@gmail.com  
