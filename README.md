@@ -16,7 +16,7 @@
 
 ### web Developer • AI & Machine Learning Enthusiast • Unity Game Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Software+Engineer;Artificial+Intelligence+Enthusiast;Machine+Learning+Explorer;Full+Stack+Developer;Unity+Game+Developer;Computer+Vision+Projects;Building+Real+World+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Web+Developer;Artificial+Intelligence+Enthusiast;Machine+Learning+Explorer;Full+Stack+Developer;Unity+Game+Developer;Computer+Vision+Projects;Building+Real+World+Applications"/>
 
 </div>
 
