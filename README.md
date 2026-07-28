@@ -1,10 +1,10 @@
 <!-- ====================================================== -->
-<!--                       HEADER                           -->
+<!--                    ANIMATED HEADER                     -->
 <!-- ====================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4B0082,35:6A0DAD,70:7B2CBF,100:3A0CA3&text=Mahnoor%20Yasir&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20|%20AI%20Developer%20|%20Game%20Developer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4B0082,35:6A0DAD,70:7B2CBF,100:3A0CA3&text=Mahnoor%20Yasir&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Web%20Developer%20|%20Unity%20Game%20Developer&descAlignY=58"/>
 
 </div>
 
@@ -12,37 +12,17 @@
 
 <div align="center">
 
-# Hi, I'm Mahnoor Yasir
+# Hi, I'm Mahnoor Yasir 👋
 
-### web Developer • AI & Machine Learning Enthusiast • Unity Game Developer
+### Computer Science Student • Web Developer • Unity Game Developer • AI & Machine Learning Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Web+Developer;Artificial+Intelligence+Enthusiast;Machine+Learning+Explorer;Full+Stack+Developer;Unity+Game+Developer;Computer+Vision+Projects;Building+Real+World+Applications"/>
-
-</div>
-
----
-
-<div align="center">
-
-![University](https://img.shields.io/badge/University-UMT%20Lahore-5E17EB?style=for-the-badge)
-
-![Degree](https://img.shields.io/badge/Degree-BS%20Computer%20Science-6D28D9?style=for-the-badge)
-
-![Graduation](https://img.shields.io/badge/Graduation-2027-7C3AED?style=for-the-badge)
-
-![Location](https://img.shields.io/badge/Lahore-Pakistan-2563EB?style=for-the-badge)
-
-![Status](https://img.shields.io/badge/Open%20To-Internships-success?style=for-the-badge)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Web+Developer;Unity+Game+Developer;AI+%26+Machine+Learning+Enthusiast;Python+Developer;Building+Projects+and+Learning+Every+Day"/>
 
 </div>
 
 ---
 
 <div align="center">
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Website-6A0DAD?style=for-the-badge"/>
-</a>
 
 <a href="https://github.com/mahnoor-yasir">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
@@ -64,9 +44,9 @@
 
 ![](https://komarev.com/ghpvc/?username=mahnoor-yasir&style=for-the-badge&color=6A0DAD)
 
-![](https://img.shields.io/github/followers/mahnoor-yasir?style=for-the-badge&logo=github&color=7B2CBF)
+![](https://img.shields.io/github/followers/mahnoor-yasir?style=for-the-badge&logo=github)
 
-![](https://img.shields.io/github/stars/mahnoor-yasir?style=for-the-badge&logo=github&color=FBBF24)
+![](https://img.shields.io/github/stars/mahnoor-yasir?style=for-the-badge&logo=github)
 
 </div>
 
@@ -74,47 +54,45 @@
 
 # About Me
 
-I'm **Mahnoor Yasir**, a Computer Science student passionate about designing and developing software that solves real-world problems.
+I'm a Computer Science student at the **University of Management and Technology (UMT), Lahore** with a strong interest in building practical software solutions.
 
-My primary interests include:
+I enjoy developing **web applications**, **Python desktop applications**, and **Unity games**, while continuously expanding my knowledge in **Artificial Intelligence**, **Machine Learning**, and **Computer Vision**.
 
-- Artificial Intelligence
-- Machine Learning
-- Computer Vision
-- Full Stack Web Development
-- Python Development
-- Unity Game Development
-
-I enjoy building scalable applications, learning modern software engineering practices, and continuously improving my technical skills through projects, internships, and open-source contributions.
+I'm always looking for opportunities to improve my technical skills through projects, internships, and hands-on learning.
 
 ---
 
-# Current Focus
+# Currently
 
-- Pursuing BS Computer Science (2023–2027)
-- Learning Artificial Intelligence & Machine Learning
-- Developing Full Stack Web Applications
-- Building Desktop Applications with Python
+- Pursuing BS Computer Science (2023 – 2027)
+- Building Web Development Projects
+- Developing Python Desktop Applications
 - Creating Unity Games
-- Exploring Computer Vision using OpenCV
-- Practicing Data Science and Predictive Analytics
-- Expanding Cloud Computing knowledge
-- Contributing to Open Source Projects
+- Learning Artificial Intelligence & Machine Learning
+- Exploring Computer Vision with OpenCV
 
 ---
 
-# Open To Opportunities
+# Looking For
 
-- Software Engineering Internship
-- Artificial Intelligence Internship
-- Machine Learning Internship
-- Python Development
-- Full Stack Web Development
-- Frontend Development
-- Backend Development
-- Game Development
+- Software Development Internships
+- Web Development Opportunities
+- Python Development Projects
+- AI & Machine Learning Projects
 - Open Source Collaboration
-- Freelance Projects
+
+---
+
+# Quick Information
+
+| Information | Details |
+|------------|---------|
+| 🎓 Degree | BS Computer Science |
+| 🏫 University | University of Management and Technology |
+| 📍 Location | Lahore, Pakistan |
+| 💻 Focus | Web Development |
+| 🎮 Interests | Unity Game Development |
+| 🤖 Learning | Artificial Intelligence & Machine Learning |
 
 ---
 
@@ -130,39 +108,37 @@ I enjoy building scalable applications, learning modern software engineering pra
 
 ---
 
-## Frontend Development
+## Web Development
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,php"/>
 
 </p>
 
 ---
 
-## Backend Development
+## Database
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
 
 </p>
 
 ---
 
-## Artificial Intelligence
+## Artificial Intelligence & Machine Learning
 
 <p>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-FFB000?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-6A0DAD?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FFB000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Data%20Science-0A66C2?style=for-the-badge"/>
 
@@ -184,13 +160,7 @@ I enjoy building scalable applications, learning modern software engineering pra
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab"/>
-
-<img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf"/>
-
-<img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio"/>
 
 </p>
 
@@ -200,489 +170,319 @@ I enjoy building scalable applications, learning modern software engineering pra
 
 <p>
 
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva"/>
+<img src="https://skillicons.dev/icons?i=figma"/>
 
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender"/>
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
 
 </p>
 
 ---
 
-# AI & Machine Learning Expertise
+# Core Skills
 
-| Domain | Proficiency | Expertise |
-|---------|-------------|-----------|
-| Python | ⭐⭐⭐⭐⭐ | OOP, Desktop Applications, Automation |
-| Artificial Intelligence | ⭐⭐⭐⭐☆ | Intelligent Systems, AI Fundamentals |
-| Machine Learning | ⭐⭐⭐⭐☆ | Model Training, Evaluation, Classification |
-| Data Science | ⭐⭐⭐⭐☆ | Data Cleaning, Analysis, Visualization |
-| Computer Vision | ⭐⭐⭐⭐☆ | OpenCV, ORB, BFMatcher, Image Stitching |
-| Predictive Analytics | ⭐⭐⭐⭐☆ | Classification Models, Performance Metrics |
-| Prompt Engineering | ⭐⭐⭐⭐☆ | LLM Prompt Design & Optimization |
+<div align="center">
+
+| Web Development | Python Development | AI & ML | Game Development |
+|:----------------:|:------------------:|:-------:|:----------------:|
+| HTML5 | Desktop Applications | Machine Learning | Unity 2D |
+| CSS3 | Object-Oriented Programming | Artificial Intelligence | C# |
+| JavaScript | File Handling | Computer Vision | UI Design |
+| PHP | SQLite | OpenCV | Game Mechanics |
+
+</div>
 
 ---
 
-# Professional Skills
+# Areas of Interest
 
-- Object-Oriented Programming
-- Software Development
-- Desktop Application Development
-- Full Stack Web Development
-- Database Design
-- REST API Fundamentals
-- Data Structures & Algorithms
+<div align="center">
+
+| Artificial Intelligence | Machine Learning | Web Development |
+|------------------------|-----------------|-----------------|
+| Computer Vision | Data Science | Unity Game Development |
+
+</div>
+
+---
+
+# Soft Skills
+
 - Problem Solving
-- Debugging & Testing
-- Version Control with Git & GitHub
-- Responsive UI Development
-- Technical Documentation
 - Team Collaboration
-- Agile Learning
-- Software Maintenance
-
----
-
-# Development Areas
-
-| Area | Technologies |
-|------|--------------|
-| Programming | Python, C, C++, C#, Java |
-| Web Development | HTML, CSS, JavaScript, PHP |
-| Database | MySQL, SQLite |
-| AI & ML | Python, OpenCV, Machine Learning |
-| Game Development | Unity 2D, C# |
-| Version Control | Git, GitHub |
-| IDEs | VS Code, Visual Studio |
-| Design | Canva, Photoshop, Blender |
+- Time Management
+- Adaptability
+- Communication
+- Continuous Learning
+- Creativity
+- Critical Thinking
 
 ---
 
 # Featured Projects
 
----
+<table>
 
-## Student Performance Hub
+<tr>
 
-A role-based academic result management system developed to simplify student record management, grading, attendance tracking, and report generation.
+<td width="50%">
 
-| Category | Details |
-|-----------|---------|
-| Language | PHP, HTML, CSS, JavaScript |
-| Database | MySQL |
-| Server | XAMPP |
-| Architecture | Client-Server |
-| Authentication | Admin & Student Login |
-| Features | Result Management, Attendance, Reports |
+### 🎓 Student Performance Hub
 
-### Key Features
+Academic Result Management System
 
-- Student Management
+**Tech Stack**
+
+PHP • MySQL • HTML • CSS • JavaScript
+
+**Highlights**
+
+- Student & Admin Dashboard
 - Result Management
-- Attendance Tracking
+- Attendance Management
 - Grade Calculation
 - Report Generation
-- Admin Dashboard
-- Student Dashboard
-- Database Integration
 
-**Repository**
+</td>
 
-```text
-https://github.com/mahnoor-yasir/StudentPerformanceHub
-```
+<td width="50%">
 
----
+### 🔐 CipherForge Password Generator
 
-## Smart Whiteboard Document Scanner
+Enterprise Password Generator
 
-A Computer Vision application that stitches multiple overlapping images into a clean scanned document using feature detection and homography estimation.
+**Tech Stack**
 
-| Category | Details |
-|-----------|---------|
-| Language | Python |
-| Libraries | OpenCV, NumPy, Matplotlib |
-| Algorithms | ORB, BFMatcher, RANSAC |
-| Domain | Computer Vision |
-| Output | Stitched Document |
+Python
 
-### Key Features
+**Highlights**
 
-- ORB Feature Detection
+- Secure Password Generation
+- Password Strength Analysis
+- Password Vault
+- Passphrase Generator
+- Backup & Export
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🧠 KnowledgeHub Quiz
+
+Desktop Quiz Application
+
+**Tech Stack**
+
+Python • Tkinter • SQLite
+
+**Highlights**
+
+- Multiple Quiz Categories
+- Difficulty Levels
+- Leaderboard
+- Statistics Dashboard
+- Timer Based Quiz
+
+</td>
+
+<td width="50%">
+
+### 📄 Smart Whiteboard Scanner
+
+Computer Vision Project
+
+**Tech Stack**
+
+Python • OpenCV • NumPy
+
+**Highlights**
+
+- Image Stitching
 - Feature Matching
-- Image Alignment
-- Homography Estimation
+- ORB Detection
 - Perspective Transformation
-- Automatic Document Stitching
-- Border Removal
+- Document Scanner
 
-**Repository**
+</td>
 
-```text
-https://github.com/mahnoor-yasir/ComputerVision-Projects
-```
+</tr>
 
----
+<tr>
 
-## Diabetes Hospital Readmission Prediction
+<td width="50%">
 
-A Machine Learning project developed to predict diabetes patient readmission using preprocessing, feature engineering, and classification algorithms.
+### 📊 Diabetes Readmission Prediction
 
-| Category | Details |
-|-----------|---------|
-| Language | Python |
-| Libraries | Pandas, NumPy, Scikit-learn |
-| Domain | Healthcare AI |
-| Model | Classification |
-| Evaluation | Accuracy & Performance Metrics |
+Machine Learning Project
 
-### Key Features
+**Tech Stack**
 
-- Data Cleaning
+Python • Scikit-Learn • Pandas
+
+**Highlights**
+
 - Data Preprocessing
 - Feature Engineering
-- Model Training
-- Prediction
+- Classification Models
 - Model Evaluation
 - Data Visualization
 
-**Repository**
+</td>
 
-```text
-https://github.com/mahnoor-yasir/DataScience
-```
+<td width="50%">
 
----
+### 🎮 Unity Games Collection
 
-## Portfolio Website
+Unity 2D Games
 
-A responsive personal portfolio website showcasing projects, internships, certifications, technical skills, and achievements.
+**Games**
 
-| Category | Details |
-|-----------|---------|
-| Frontend | HTML, CSS, JavaScript |
-| Design | Responsive UI |
-| Deployment | GitHub Pages |
-| Purpose | Professional Portfolio |
+- Tile Rush
+- Feather Dash
+- Chrono Run
+- Balloon Blast
+- Block Rain
+- Bounce Ball Smash
 
-### Key Features
+</td>
 
-- Responsive Design
-- Project Showcase
-- Certifications
-- Skills Section
-- Contact Information
-- Clean User Interface
+</tr>
 
-**Repository**
-
-```text
-https://github.com/mahnoor-yasir
-```
+</table>
 
 ---
 
-# Python Desktop Applications
+# Internship Experience
 
-## CipherForge Password Generator
+<table>
 
-A professional desktop application that generates highly secure passwords with password strength analysis, password vault, history management, backup, and export features.
+<tr>
 
-### Technologies
+<td width="50%">
 
-- Python
-- Tkinter
-- JSON
-- Secrets Module
+## 🐍 Decode Labs
 
-### Features
+**Role**
 
-- Secure Password Generation
-- Password Strength Checker
-- Password Vault
-- Password History
-- Bulk Password Generator
-- Passphrase Generator
-- PIN Generator
-- API Key Generator
-- Backup & Restore
-- Data Export
+Python Programming Intern
 
----
+**Duration**
 
-## KnowledgeHub Quiz
+July 2026 – August 2026
 
-A desktop-based General Knowledge Quiz application featuring multiple quiz categories, difficulty levels, score tracking, leaderboards, and SQLite database integration.
+**Focus**
 
-### Technologies
+- Python Programming
+- Desktop Applications
+- Object-Oriented Programming
 
-- Python
-- Tkinter
-- SQLite
+</td>
 
-### Features
+<td width="50%">
 
-- Interactive Quiz
-- Difficulty Levels
-- Countdown Timer
-- Leaderboard
-- Statistics Dashboard
-- Question Management
-- CSV & TXT Export
-- Theme Switching
+## 🌐 Oasis Infobyte
 
----
+**Role**
 
-# Unity Game Projects
+Web Development Intern
 
-## Tile Rush
+**Duration**
 
-A Unity WebGL puzzle game where players strategically place tiles to complete lines and achieve high scores.
+July 2026 – August 2026
 
-**Highlights**
-
-- Unity 2D
-- Puzzle Mechanics
-- WebGL
-- Browser Play
-
-**Play Online**
-
-```text
-https://mahnoor-yasir.itch.io/tile-rush
-```
-
----
-
-## Feather Dash
-
-A fast-paced arcade game where players guide a bird through increasingly challenging obstacles.
-
-**Highlights**
-
-- Unity
-- Endless Gameplay
-- Physics
-- Score System
-
-**Play Online**
-
-```text
-https://mahnoor-yasir.itch.io/feather-dash
-```
-
----
-
-## Chrono Run
-
-A browser-based endless runner where players avoid viruses and survive as long as possible.
-
-**Highlights**
-
-- Unity
-- Endless Runner
-- Collision Detection
-- WebGL
-
-**Play Online**
-
-```text
-https://mahnoor-yasir.itch.io/chrono-run
-```
-
----
-
-## Balloon Blast
-
-A casual arcade balloon-popping game focused on timing, speed, and accuracy.
-
-**Highlights**
-
-- Unity
-- Arcade Gameplay
-- Score Tracking
-- Smooth Controls
-
-**Play Online**
-
-```text
-https://mahnoor-yasir.itch.io/balloon-blast
-```
-
----
-
-## Block Rain
-
-A survival game where players dodge continuously falling blocks while achieving the highest possible score.
-
-**Highlights**
-
-- Unity
-- Survival Gameplay
-- Progressive Difficulty
-- High Score System
-
-**Play Online**
-
-```text
-https://mahnoor-yasir.itch.io/block-rain
-```
-
----
-
-## Bounce Ball Smash
-
-A physics-based arcade game where players smash bouncing balls while avoiding obstacles.
-
-**Highlights**
-
-- Unity
-- Physics
-- Arcade
-- Progressive Difficulty
-
-**Play Online**
-
-```text
-https://mahnoor-yasir.itch.io/bounce-ball-smash
-```
-
----
-
-# Professional Experience
-
----
-
-## Java Programming Intern — Crixsoft Solution
-
-**Duration:** July 2026 – August 2026
-
-**Mode:** Remote
-
-### Responsibilities
-
-- Developed Java applications using Core Java.
-- Applied Object-Oriented Programming principles.
-- Built modular and reusable code.
-- Improved debugging and problem-solving skills.
-
-### Technologies
-
-- Java
-- OOP
-- File Handling
-- Exception Handling
-
----
-
-## Python Programming Intern — Decode Labs
-
-**Duration:** July 2026 – August 2026
-
-**Mode:** Remote
-
-### Responsibilities
-
-- Developed desktop applications using Python.
-- Implemented Object-Oriented Programming concepts.
-- Worked with file handling and data processing.
-- Improved application structure and debugging.
-
-### Technologies
-
-- Python
-- OOP
-- JSON
-- Tkinter
-- SQLite
-
----
-
-## Web Development Intern — Oasis Infobyte
-
-**Duration:** July 2026 – August 2026
-
-**Mode:** Remote
-
-### Responsibilities
-
-- Developed responsive websites.
-- Built interactive user interfaces.
-- Improved website responsiveness.
-- Created reusable UI components.
-
-### Technologies
+**Focus**
 
 - HTML
 - CSS
 - JavaScript
+- Responsive Web Design
 
----
+</td>
 
-## Frontend Development Intern — CodeAlpha
+</tr>
 
-**Duration:** June 2026 – July 2026
+<tr>
 
-### Responsibilities
+<td width="50%">
 
-- Developed responsive web pages.
-- Improved UI and UX.
-- Optimized layouts for desktop and mobile devices.
+## 💻 CodeAlpha
 
-### Technologies
+**Role**
 
-- HTML
-- CSS
-- JavaScript
+Frontend Development Intern
 
----
+**Duration**
 
-## C++ Programming Intern — CodeAlpha
+June 2026 – July 2026
 
-**Duration:** June 2026 – July 2026
+**Focus**
 
-### Responsibilities
+- Responsive UI
+- Frontend Development
+- Modern Web Interfaces
 
-- Developed C++ console applications.
-- Applied Object-Oriented Programming concepts.
-- Worked with file handling.
-- Improved programming logic.
+</td>
 
-### Technologies
+<td width="50%">
+
+## ⚙️ CodeAlpha
+
+**Role**
+
+C++ Programming Intern
+
+**Duration**
+
+June 2026 – July 2026
+
+**Focus**
 
 - C++
 - OOP
-- File Handling
+- Problem Solving
 
----
+</td>
 
-# Achievements
+</tr>
 
-- Published multiple Unity games on Itch.io.
-- Developed AI and Machine Learning projects.
-- Built full-stack web applications using PHP and MySQL.
-- Completed multiple technical internships.
-- Developed desktop applications using Python.
-- Built Computer Vision projects using OpenCV.
-- Continuously expanding expertise in AI, Machine Learning, and Software Engineering.
+<tr>
+
+<td colspan="2">
+
+## ☕ Crixsoft Solution
+
+**Role**
+
+Java Programming Intern
+
+**Duration**
+
+July 2026 – August 2026
+
+**Focus**
+
+- Core Java
+- Object-Oriented Programming
+- Java Applications
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 # Certifications
 
-## Workshops
-
-- Game Development Hands-on Training
-- Tech Fiesta 2026
-- IEEE WIE AI & Cybersecurity Workshop
-- Code Amplified: Building Software with Generative AI
-- Agentic AI Chatbot Development & Freelancing
-- Kick-Start Your Freelancing Career
-
----
-
-## Cisco Networking Academy
+### Cisco Networking Academy
 
 - Introduction to Data Science
 - Introduction to Modern AI
@@ -690,66 +490,43 @@ https://mahnoor-yasir.itch.io/bounce-ball-smash
 
 ---
 
-## Google (Coursera)
+### Google (Coursera)
 
 - Crash Course on Python
 - Foundations: Data, Data, Everywhere
 
 ---
 
-## Simplilearn
+### Simplilearn
 
 - Prompt Engineering with ChatGPT
 - Introduction to Cloud Computing
 
 ---
 
-## LMDA
+### LMDA
 
 - Artificial Intelligence for Business
 
 ---
 
-# Coding Profiles
+### Workshops
 
-<div align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Certifications-2EC866?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Practice-0F9D58?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef"/>
-</a>
-
-</div>
+- Tech Fiesta 2026
+- Game Development Hands-on Training
+- IEEE WIE AI & Cybersecurity Workshop
+- Code Amplified: Building Software with Generative AI
+- Agentic AI Chatbot Development & Freelancing
+- Kick-Start Your Freelancing Career
 
 ---
 
-# Professional Highlights
+# Achievements
 
-- Software Engineering
-- Artificial Intelligence
-- Machine Learning
-- Computer Vision
-- Full Stack Development
-- Python Development
-- Desktop Application Development
-- Unity Game Development
-- Data Science
-- Database Design
-- Problem Solving
-- Team Collaboration
-- Open Source Contributions
-- Continuous Learning
+- Published multiple Unity games on Itch.io
+- Completed multiple technical internships
+- Developed web, desktop, AI, and Computer Vision projects
+- Continuously learning modern software development technologies
 
 ---
 
@@ -757,87 +534,41 @@ https://mahnoor-yasir.itch.io/bounce-ball-smash
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahnoor-yasir&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahnoor-yasir&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahnoor-yasir&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&cache_seconds=1800"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahnoor-yasir&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
-
-# GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mahnoor-yasir&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=mahnoor-yasir&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
-
-# GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mahnoor-yasir&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahnoor-yasir&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# Contribution Graph
+# GitHub Overview
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahnoor-yasir&theme=tokyo-night&hide_border=true&radius=16"/>
+![](https://img.shields.io/github/followers/mahnoor-yasir?style=for-the-badge&logo=github)
+
+![](https://img.shields.io/github/stars/mahnoor-yasir?style=for-the-badge&logo=github)
+
+![](https://komarev.com/ghpvc/?username=mahnoor-yasir&style=for-the-badge)
 
 </div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-> **Note:** The snake animation requires a GitHub Actions workflow in your profile repository to generate automatically.
-
----
-
-# Current Learning
-
-```yaml
-Name: Mahnoor Yasir
-
-Role:
-  - Software Engineer
-  - Computer Science Student
-
-Currently Learning:
-  - Artificial Intelligence
-  - Machine Learning
-  - Computer Vision
-  - Full Stack Development
-  - Cloud Computing
-  - System Design
-
-Currently Building:
-  - AI Applications
-  - Desktop Applications
-  - Full Stack Projects
-  - Unity Games
-  - Machine Learning Projects
-
-Open To:
-  - Software Engineering Internship
-  - AI Internship
-  - Machine Learning Internship
-  - Full Stack Development
-  - Open Source Collaboration
-```
 
 ---
 
@@ -845,68 +576,17 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:mahnooryasir04@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-mahnooryasir04@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
+<a href="https://github.com/mahnoor-yasir">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<br><br>
 
 <a href="https://linkedin.com/in/mahnoor-yasir">
-
-<img src="https://img.shields.io/badge/LinkedIn-Mahnoor%20Yasir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br><br>
-
-<a href="https://github.com/mahnoor-yasir">
-
-<img src="https://img.shields.io/badge/GitHub-mahnoor--yasir-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
+<a href="mailto:mahnooryasir04@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<br><br>
-
-<a href="YOUR_PORTFOLIO_URL">
-
-<img src="https://img.shields.io/badge/Portfolio-Visit_Website-6A0DAD?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-
-</a>
-
-</div>
-
----
-
-# GitHub Profile Summary
-
-- Computer Science Student at UMT Lahore
-- Software Engineer
-- Artificial Intelligence Enthusiast
-- Machine Learning Explorer
-- Computer Vision Developer
-- Full Stack Web Developer
-- Python Developer
-- Unity Game Developer
-- Open Source Learner
-- Lifelong Learner
-
----
-
-# Support My Work
-
-If you find my projects useful, consider starring the repositories and following my GitHub profile.
-
-Your support encourages me to continue building open-source projects and sharing my learning journey.
-
----
-
-<div align="center">
-
-### Thank you for visiting my GitHub profile.
-
-**Building software through continuous learning, innovation, and collaboration.**
 
 </div>
 
@@ -914,6 +594,16 @@ Your support encourages me to continue building open-source projects and sharing
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4B0082,40:6A0DAD,70:7B2CBF,100:3A0CA3"/>
+### Thanks for visiting my profile!
+
+*"Always learning, always building."*
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4B0082,35:6A0DAD,70:7B2CBF,100:3A0CA3"/>
 
 </div>
