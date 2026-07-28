@@ -43,10 +43,7 @@
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=mahnoor-yasir&style=for-the-badge&color=6A0DAD)
-
-![](https://img.shields.io/github/followers/mahnoor-yasir?style=for-the-badge&logo=github)
-
-![](https://img.shields.io/github/stars/mahnoor-yasir?style=for-the-badge&logo=github)
+<img src="https://github-readme-stats.vercel.app/api?username=mahnoor-yasir&show_icons=true&theme=tokyonight"/>
 
 </div>
 
@@ -530,26 +527,6 @@ July 2026 – August 2026
 
 ---
 
-# GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahnoor-yasir&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahnoor-yasir&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=mahnoor-yasir&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahnoor-yasir&theme=tokyo-night&hide_border=true"/>
@@ -558,19 +535,6 @@ July 2026 – August 2026
 
 ---
 
-# GitHub Overview
-
-<div align="center">
-
-![](https://img.shields.io/github/followers/mahnoor-yasir?style=for-the-badge&logo=github)
-
-![](https://img.shields.io/github/stars/mahnoor-yasir?style=for-the-badge&logo=github)
-
-![](https://komarev.com/ghpvc/?username=mahnoor-yasir&style=for-the-badge)
-
-</div>
-
----
 
 # Let's Connect
 
