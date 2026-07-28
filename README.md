@@ -43,8 +43,6 @@
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=mahnoor-yasir&style=for-the-badge&color=6A0DAD)
-<img src="https://github-readme-stats.vercel.app/api?username=mahnoor-yasir&show_icons=true&theme=tokyonight"/>
-
 </div>
 
 ---
